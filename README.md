@@ -3,6 +3,8 @@ Here you can find all the dashboards that I made with PowerBI
 
 IMS Integrador:  https://bit.ly/2YpnG6l
 
+Sales Insights Code Basics:https://bit.ly/3gin60l
+
 Horror podcast:  http://bit.ly/2XrwCbf
 
 Northwind:  https://bit.ly/2YWuDLi
