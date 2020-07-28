@@ -14,3 +14,9 @@ Northwind:  https://bit.ly/2YWuDLi
 Criminalidad: https://bit.ly/2BFNsdw
 
 Airbnb: https://bit.ly/3eIc2ZU
+
+
+
+My Tableau Profile:
+
+https://public.tableau.com/profile/alejandro.giribone#!/
