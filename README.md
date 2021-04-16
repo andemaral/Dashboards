@@ -3,7 +3,7 @@ Here you can find all the dashboards that I made with PowerBI
 
 IMS Integrador:  https://bit.ly/2YpnG6l
 
-Marketing Campaign : https://bit.ly/3wYxS5d
+Marketing Campaign : https://bit.ly/3mTjRRv
 
 Sales Insights Code Basics:https://bit.ly/3gin60l
 
