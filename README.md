@@ -3,7 +3,7 @@ Here you can find all the dashboards that I made with PowerBI
 
 Sales Microsoft Dashboard: https://bit.ly/3dyVntZ
 
-Profit vs Previous Year Dashboard:https://bit.ly/3eRZ7WA
+Profit vs Previous Year Dashboard: https://bit.ly/3eRZ7WA
 
 IMS Integrador:  https://bit.ly/2YpnG6l
 
