@@ -13,6 +13,8 @@ Ventas vs Presupuesto: https://bit.ly/3fneiHP
 
 Dashboard Finance: https://bit.ly/3fBoRqz
 
+Adventure Works Sales MTD,QTD,YTD: https://bit.ly/34kE3n2
+
 Marketing Campaign : https://bit.ly/3mTjRRv
 
 Sales Insights Code Basics:https://bit.ly/3gin60l
