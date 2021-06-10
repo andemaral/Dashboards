@@ -9,8 +9,6 @@ Profit vs Previous Year Dashboard: https://bit.ly/3eRZ7WA
 
 Income Statement Vs Budget vs Forecast: https://bit.ly/2RJJzgf
 
-IMS Integrador:  https://bit.ly/2YpnG6l
-
 Ventas vs Presupuesto: https://bit.ly/3fneiHP
 
 Adventure Works Sales MTD,QTD,YTD: https://bit.ly/34kE3n2
@@ -20,6 +18,10 @@ Marketing Campaign : https://bit.ly/3mTjRRv
 Sales Insights Code Basics:https://bit.ly/3gin60l
 
 Inventory Management Dashboard: https://bit.ly/3iuQYLt
+
+Global Store Management Dashboard: https://bit.ly/2SiY0Z4
+
+IMS Integrador:  https://bit.ly/2YpnG6l
 
 IBM HR Attrition: https://bit.ly/38IVLls
 
