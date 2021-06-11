@@ -15,6 +15,8 @@ Adventure Works Sales MTD,QTD,YTD: https://bit.ly/34kE3n2
 
 Marketing Campaign : https://bit.ly/3mTjRRv
 
+Email Marketing Customer Insights: https://bit.ly/2SmhkEO
+
 Sales Insights Code Basics:https://bit.ly/3gin60l
 
 Inventory Management Dashboard: https://bit.ly/3iuQYLt
