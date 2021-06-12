@@ -9,7 +9,7 @@ Profit vs Previous Year Dashboard: https://bit.ly/3eRZ7WA
 
 Income Statement Vs Budget vs Forecast: https://bit.ly/2RJJzgf
 
-Ventas vs Presupuesto: https://bit.ly/3fneiHP
+Sales vs Budget: https://bit.ly/3fneiHP
 
 Adventure Works Sales MTD,QTD,YTD: https://bit.ly/34kE3n2
 
