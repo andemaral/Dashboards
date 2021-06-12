@@ -17,6 +17,8 @@ Marketing Campaign : https://bit.ly/3mTjRRv
 
 Email Marketing Customer Insights: https://bit.ly/2SmhkEO
 
+HR Policy Interview Insights : https://bit.ly/35c49sT
+
 Sales Insights Code Basics:https://bit.ly/3gin60l
 
 Inventory Management Dashboard: https://bit.ly/3iuQYLt
