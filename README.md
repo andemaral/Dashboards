@@ -31,13 +31,6 @@ IBM HR Attrition: https://bit.ly/38IVLls
 
 Dashboard Covid: https://bit.ly/3zjtbUr
 
-Horror podcast:  http://bit.ly/2XrwCbf
-
-Criminalidad: https://bit.ly/2BFNsdw
-
-Airbnb: https://bit.ly/3eIc2ZU
-
-
 
 
 
