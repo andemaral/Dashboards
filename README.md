@@ -19,6 +19,8 @@ Email Marketing Customer Insights: https://bit.ly/2SmhkEO
 
 HR Policy Interview Insights : https://bit.ly/35c49sT
 
+Jira IT Desk Service Ticket Analysis : https://bit.ly/35jlH6j
+
 Delivery App Dashboard: https://bit.ly/3xaAj3Q
 
 Sales Insights Code Basics:https://bit.ly/3gin60l
