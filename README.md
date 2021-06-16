@@ -29,6 +29,8 @@ Inventory Management Dashboard: https://bit.ly/3iuQYLt
 
 Global Store Management Dashboard: https://bit.ly/2SiY0Z4
 
+Optical Doctor Appointment Dashboard: https://bit.ly/3grJPdc
+
 IMS Integrador:  https://bit.ly/2YpnG6l
 
 Dashboard Covid: https://bit.ly/3zjtbUr
