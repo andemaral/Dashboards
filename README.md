@@ -5,6 +5,8 @@ Dashboard Finance: https://bit.ly/3fBoRqz
 
 Sales Microsoft Dashboard: https://bit.ly/3dyVntZ
 
+Financial Reporting: https://bit.ly/35T9Trv
+
 Profit vs Previous Year Dashboard: https://bit.ly/3eRZ7WA
 
 Income Statement Vs Budget vs Forecast: https://bit.ly/2RJJzgf
