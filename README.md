@@ -1,4 +1,4 @@
-![image](https://github.com/andemaral/Dashboards/assets/48655859/de508f3e-125e-4e86-a63e-625e736a56c0)![image](https://github.com/andemaral/Dashboards/assets/48655859/f6269a0d-3cac-4357-98b6-29a6de74d53b)In the following drive you will find all PBI Reports including some that I cant upload directly to github do to sizing limitations. 
+In the following drive you will find all PBI Reports including some that I cant upload directly to github do to sizing limitations. 
 
 https://drive.google.com/drive/u/4/folders/16q2DDcfiH6GaA_t4QhPY5V91KIgnvgoD
 
