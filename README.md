@@ -21,3 +21,27 @@ Financial Dashboard:
 
 ![image](https://github.com/andemaral/Dashboards/assets/48655859/bfbccbc8-b548-4825-bb09-895eed4bbc3b)
 
+
+Executive Dashboard:
+
+
+![image](https://github.com/andemaral/Dashboards/assets/48655859/f6b42ed1-c846-41b3-b311-39c5e91ccac2)
+
+![image](https://github.com/andemaral/Dashboards/assets/48655859/8d03cd2c-1a01-4d26-9f50-53a87abe2714)
+
+![image](https://github.com/andemaral/Dashboards/assets/48655859/fca159da-8580-477b-9722-30f9b5896ed5)
+
+![image](https://github.com/andemaral/Dashboards/assets/48655859/19a26f27-269f-4a36-8cfa-97f6e6912b33)
+
+![image](https://github.com/andemaral/Dashboards/assets/48655859/76bf9c87-ac39-495f-bc3d-b34999078fc5)
+
+![image](https://github.com/andemaral/Dashboards/assets/48655859/57c903ff-0918-4209-9eb8-f0104d63e0e5)
+
+![image](https://github.com/andemaral/Dashboards/assets/48655859/8a314184-e36d-443a-b863-4ae767ce661a)
+
+![image](https://github.com/andemaral/Dashboards/assets/48655859/34687d58-ef2f-48ac-b8ad-315464f83116)
+
+
+
+
+
