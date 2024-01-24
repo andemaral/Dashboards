@@ -39,6 +39,24 @@ Executive Dashboard:
 ![image](https://github.com/andemaral/Dashboards/assets/48655859/34687d58-ef2f-48ac-b8ad-315464f83116)
 
 
+Contoso : 
+
+![image](https://github.com/andemaral/Dashboards/assets/48655859/ebfd191c-43eb-44df-aaf9-018ae87cab21)
+
+![image](https://github.com/andemaral/Dashboards/assets/48655859/0fa58cee-fdb8-415a-9cb6-cadd170bcb46)
+
+![image](https://github.com/andemaral/Dashboards/assets/48655859/56667020-6335-435c-b4ed-5650f29455d6)
+
+![image](https://github.com/andemaral/Dashboards/assets/48655859/b0b7fed8-c057-4853-a7e0-3c9cb5a2f0a0)
+
+![image](https://github.com/andemaral/Dashboards/assets/48655859/b421de33-3a0f-495a-add3-5e40f817f19c)
+
+
+
+
+
+
+
 
 
 
