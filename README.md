@@ -41,18 +41,15 @@ Executive Dashboard:
 
 Contoso : 
 
-![image](https://github.com/andemaral/Dashboards/assets/48655859/ebfd191c-43eb-44df-aaf9-018ae87cab21)
+![image](https://github.com/andemaral/Dashboards/assets/48655859/872dfd5c-a83b-422d-9a88-28bf9a21b254)
 
-![image](https://github.com/andemaral/Dashboards/assets/48655859/0fa58cee-fdb8-415a-9cb6-cadd170bcb46)
+![image](https://github.com/andemaral/Dashboards/assets/48655859/d2823fd2-7c18-48c0-b045-637f4c099d48)
 
-![image](https://github.com/andemaral/Dashboards/assets/48655859/56667020-6335-435c-b4ed-5650f29455d6)
+![image](https://github.com/andemaral/Dashboards/assets/48655859/151f2009-35f2-4f29-b7a7-f32bc8d9ef18)
 
-![image](https://github.com/andemaral/Dashboards/assets/48655859/b0b7fed8-c057-4853-a7e0-3c9cb5a2f0a0)
+![image](https://github.com/andemaral/Dashboards/assets/48655859/14e3e373-2def-4f09-b179-86608bcb3487)
 
-![image](https://github.com/andemaral/Dashboards/assets/48655859/b421de33-3a0f-495a-add3-5e40f817f19c)
-
-
-
+![image](https://github.com/andemaral/Dashboards/assets/48655859/0121dfc3-c298-4a8a-baac-4fa035dcdee6)
 
 
 
