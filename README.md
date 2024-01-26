@@ -12,6 +12,8 @@ Sales Dashboard:
 ![image](https://github.com/andemaral/Dashboards/assets/48655859/95309c32-82d3-45cf-be8c-4047265a292c)
 
 
+-------------------------------------------------------------------------------------------------------
+
 Financial Dashboard: 
 
 ![image](https://github.com/andemaral/Dashboards/assets/48655859/724df60d-c570-409d-b7d5-d24569ce1cdf)
@@ -37,6 +39,9 @@ Executive Dashboard:
 ![image](https://github.com/andemaral/Dashboards/assets/48655859/8a314184-e36d-443a-b863-4ae767ce661a)
 
 ![image](https://github.com/andemaral/Dashboards/assets/48655859/34687d58-ef2f-48ac-b8ad-315464f83116)
+
+
+-------------------------------------------------------------------------------------------------------
 
 
 Contoso : 
