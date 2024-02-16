@@ -62,6 +62,14 @@ Contoso :
 ![image](https://github.com/andemaral/Dashboards/assets/48655859/4e51d398-27d0-45a6-ab66-e4c53eef77c5)
 
 
+HR :
+
+![image](https://github.com/andemaral/Dashboards/assets/48655859/1a66ecd3-9259-493a-b4ec-d1df5304bc43)
+
+![image](https://github.com/andemaral/Dashboards/assets/48655859/8994ff46-4c9b-467f-93a7-cbfd48e45a07)
+
+
+
 
 
 
