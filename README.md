@@ -29,6 +29,8 @@ Executive Dashboard:
 
 ![image](https://github.com/andemaral/Dashboards/assets/48655859/f6b42ed1-c846-41b3-b311-39c5e91ccac2)
 
+![image](https://github.com/andemaral/Dashboards/assets/48655859/33f43c59-bb7b-4239-9d9c-73c77f263ad8)
+
 ![image](https://github.com/andemaral/Dashboards/assets/48655859/8d03cd2c-1a01-4d26-9f50-53a87abe2714)
 
 ![image](https://github.com/andemaral/Dashboards/assets/48655859/fca159da-8580-477b-9722-30f9b5896ed5)
